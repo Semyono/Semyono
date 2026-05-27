@@ -81,8 +81,7 @@ fun_fact: I vibe-code C++ — I get it but don't memorize syntax 😅
 
 ## 🚀 Featured Project
 
-### ⌨️ AutoKeyboard 2.0
-> A polished WPF auto-key tool with multi-key sequences, random intervals, global hotkeys, system tray, and dark/light themes. Built in C#.
+### Working on...
 
 ---
 
