@@ -96,7 +96,7 @@ focus: Building automation tools & desktop apps
 
 <div align="center">
 
-### 💬 *"Vibe coding is just pattern recognition with extra steps"*
+### *"IDONTKNOW"*
 
 ⭐ Star my repos if they help you!
 
