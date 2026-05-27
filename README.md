@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Semyon
 
-### 🚀 Self developer • Automation enthusiast • Vibe coder (idgaf)
+### Self developer | Vibe coder (idgaf)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Semyono&color=00d9ff&style=for-the-badge)](https://github.com/Semyono)
 [![GitHub followers](https://img.shields.io/github/followers/Semyono?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/Semyono)
@@ -15,11 +15,8 @@
 
 ```yaml
 name: Semyon
-role: Developer in progress 🛠️
+role: Developer in progress
 focus: Building automation tools & desktop apps
-currently_learning: C# WPF & advanced Python
-philosophy: "If it can be automated, it should be"
-fun_fact: I vibe-code C++ — I get it but don't memorize syntax 😅
 ```
 
 ---
