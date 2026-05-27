@@ -85,6 +85,18 @@ fun_fact: I vibe-code C++ — I get it but don't memorize syntax 😅
 
 ---
 
+---
+
+## 🐍 Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Semyono/Semyono/output/snake-cyan.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Semyono/Semyono/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Semyono/Semyono/output/github-snake.svg" />
+  </picture>
+</div>
+
 <div align="center">
 
 ### 💬 *"Vibe coding is just pattern recognition with extra steps"*
