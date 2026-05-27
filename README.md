@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Semyon..
+# 👋 Hey, I'm Semyon
 
 ### 🚀 Self developer • Automation enthusiast • Vibe coder (idgaf)
 
