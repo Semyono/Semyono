@@ -1,17 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Semyon
-
-### Self developer | Vibe coder (idgaf)
+# Hey, I'm Semyon
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Semyono&color=00d9ff&style=for-the-badge)](https://github.com/Semyono)
-[![GitHub followers](https://img.shields.io/github/followers/Semyono?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/Semyono)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: Semyon
@@ -20,8 +17,6 @@ focus: Building automation tools & desktop apps
 ```
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -39,67 +34,6 @@ focus: Building automation tools & desktop apps
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Semyono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semyono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Semyono&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Semyono&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Semyono&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff)
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### Working on...
-
----
-
----
-
-## 🐍 Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Semyono/Semyono/output/snake-cyan.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Semyono/Semyono/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Semyono/Semyono/output/github-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-
-### *"IDONTKNOW"*
-
-⭐ Star my repos if they help you!
+Star my repos if they help you!
 
 </div>
